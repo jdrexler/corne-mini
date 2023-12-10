@@ -122,8 +122,8 @@
                 bindings = <
                     &none   &kp ESC     &bk             &fnd        &fw             &kp INS                             &kp PG_UP   &kp HOME    &kp UP      &kp END     &kp CAPS    &none     
                     &none   &sk LALT    &sk LGUI        &sk LSHFT   &sk LCTRL       &sk RALT                            &kp PG_DOWN &kp LEFT    &kp DOWN    &kp RIGHT   &kp DEL     &none   
-                    &none   &ctrlz      &ctrlx          &ctrlc      &ctrlv          &kp LGUI                            &kp RET     &kp BSPC    &kp TAB     &kp K_APP   &kp PSCRN   &none   
-                                                        &trans      &trans          &trans                              &trans      &trans      &trans
+                    //&none   &ctrlz      &ctrlx          &ctrlc      &ctrlv          &kp LGUI                            &kp RET     &kp BSPC    &kp TAB     &kp K_APP   &kp PSCRN   &none   
+                    //                                    &trans      &trans          &trans                              &trans      &trans      &trans
                 >;
         };
 
